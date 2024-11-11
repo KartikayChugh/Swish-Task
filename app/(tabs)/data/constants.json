@@ -1,0 +1,23 @@
+{
+  "foodItems": [
+    {
+      "id": 1,
+      "itemName": "Grilled Chicken",
+      "price": 259,
+      "image": "../../assets/main/nonVegSymbol.png"
+    },
+
+    {
+        "id": 2,
+        "itemName": "Ice tea",
+        "price": 199,
+        "image": "../../assets/main/vegSymbol.png"
+    },
+    {
+        "id": 3,
+        "itemName": "Maggi",
+        "price": 100,
+        "image": "../../assets/main/vegSymbol.png"
+    }
+  ]
+}
